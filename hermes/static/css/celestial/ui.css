@@ -61,7 +61,16 @@ h1 {
 .controls-open #controls {
   right: 0px; }
 
+#data {
+  position: relative;
+  bottom: 0; }
+
+#controls {
+  top: 150px;
+  background: transparent; }
+
 #data a {
+  display: inline-block;
   margin-bottom: 1px;
   padding: 6px 10px;
   font-size: 18px; }

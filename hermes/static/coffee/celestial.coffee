@@ -1,5 +1,5 @@
 $(window).load ->
-  body = $('body')
+  body = $('#celestial')
   universe = $('#universe')
   solarsys = $('#solar-system')
 
