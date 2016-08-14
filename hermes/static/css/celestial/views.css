@@ -35,6 +35,41 @@
     transform: rotateZ(0deg); }
   100% {
     transform: rotateZ(-360deg); } }
+@keyframes mercury-orbit {
+  0% {
+    transform: rotateZ(0deg) rotateX(7deg); }
+  100% {
+    transform: rotateZ(-360deg) rotateX(7deg); } }
+@keyframes venus-orbit {
+  0% {
+    transform: rotateZ(0deg) rotateX(3.39deg); }
+  100% {
+    transform: rotateZ(-360deg) rotateX(3.39deg); } }
+@keyframes mars-orbit {
+  0% {
+    transform: rotateZ(0deg) rotateX(1.85deg); }
+  100% {
+    transform: rotateZ(-360deg) rotateX(1.85deg); } }
+@keyframes jupiter-orbit {
+  0% {
+    transform: rotateZ(0deg) rotateX(1.3deg); }
+  100% {
+    transform: rotateZ(-360deg) rotateX(1.3deg); } }
+@keyframes saturn-orbit {
+  0% {
+    transform: rotateZ(0deg) rotateX(2.49deg); }
+  100% {
+    transform: rotateZ(-360deg) rotateX(2.49deg); } }
+@keyframes uranus-orbit {
+  0% {
+    transform: rotateZ(0deg) rotateX(0.77deg); }
+  100% {
+    transform: rotateZ(-360deg) rotateX(0.77deg); } }
+@keyframes neptune-orbit {
+  0% {
+    transform: rotateZ(0deg) rotateX(1.77deg); }
+  100% {
+    transform: rotateZ(-360deg) rotateX(1.77deg); } }
 @keyframes suborbit {
   0% {
     transform: rotateX(90deg) rotateZ(0deg); }

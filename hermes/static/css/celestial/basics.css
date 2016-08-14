@@ -99,4 +99,25 @@
   box-sizing: border-box;
   box-sizing: border-box; }
 
+#mercury {
+  animation-name: mercury-orbit; }
+
+#venus {
+  animation-name: venus-orbit; }
+
+#mars {
+  animation-name: mars-orbit; }
+
+#jupiter {
+  animation-name: jupiter-orbit; }
+
+#saturn {
+  animation-name: saturn-orbit; }
+
+#uranus {
+  animation-name: uranus-orbit; }
+
+#neptune {
+  animation-name: neptune-orbit; }
+
 /*# sourceMappingURL=basics.css.map */
